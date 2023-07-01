@@ -1,0 +1,90 @@
+[
+    {
+      "IdPessoa": 1,
+      "Nome": "João",
+      "Sobrenome": "Silva",
+      "Salario": 2500.50,
+      "Profissao": {
+        "IdProfissao": 1,
+        "Nome": "Engenheiro Civil"
+      },
+      "Empregado": true
+    },
+    {
+      "IdPessoa": 2,
+      "Nome": "Maria",
+      "Sobrenome": "Souza",
+      "Salario": 3500.75,
+      "Profissao": {
+        "IdProfissao": 2,
+        "Nome": "Advogada"
+      },
+      "Empregado": true
+    },
+    {
+      "IdPessoa": 3,
+      "Nome": "Pedro",
+      "Sobrenome": "Ferreira",
+      "Salario": 2000.00,
+      "Profissao": {
+        "IdProfissao": 3,
+        "Nome": "Professor de Educação Física"
+      },
+      "Empregado": false
+    },
+    {
+      "IdPessoa": 4,
+      "Nome": "Ana",
+      "Sobrenome": "Oliveira",
+      "Salario": 4000.25,
+      "Profissao": {
+        "IdProfissao": 4,
+        "Nome": "Médica"
+      },
+      "Empregado": true
+    },
+    {
+      "IdPessoa": 5,
+      "Nome": "Carlos",
+      "Sobrenome": "Santos",
+      "Salario": 3000.50,
+      "Profissao": {
+        "IdProfissao": 5,
+        "Nome": "Engenheiro Elétrico"
+      },
+      "Empregado": true
+    },
+    {
+      "IdPessoa": 6,
+      "Nome": "Fernanda",
+      "Sobrenome": "Lima",
+      "Salario": 5000.00,
+      "Profissao": {
+        "IdProfissao": 6,
+        "Nome": "Arquiteta de Interiores"
+      },
+      "Empregado": true
+    },
+    {
+      "IdPessoa": 7,
+      "Nome": "Ricardo",
+      "Sobrenome": "Costa",
+      "Salario": 1800.75,
+      "Profissao": {
+        "IdProfissao": 7,
+        "Nome": "Técnico em Informática"
+      },
+      "Empregado": false
+    },
+    {
+      "IdPessoa": 8,
+      "Nome": "Juliana",
+      "Sobrenome": "Mendes",
+      "Salario": 4200.25,
+      "Profissao": {
+        "IdProfissao": 8,
+        "Nome": "Engenheira Química"
+      },
+      "Empregado": true
+    }
+  ]
