@@ -13,7 +13,7 @@ namespace GeradorDeRelatorio
         static void Main(string[] args)
         {
             DesserializarPessoas();
-            GerarRelatorioEmPdf(5);
+            GerarRelatorioEmPdf(8);
         }
 
         static void DesserializarPessoas()
